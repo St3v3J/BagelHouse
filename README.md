@@ -1,2 +1,3 @@
 # BagelHouse
-Bagel and Coffee shop application for Mobile device or in-store Kiosk. Proof of concepts.
+This is a Bagel and Coffee shop application for Mobile device or in-store order Kiosk. Proof of concepts.
+User inputs order choice from a modest selection of bagels and toppings as well as coffee choices. The price plus tax is automatically displayed on the screen. The application can also connect to a database and add an employee, update or delete the employees from the database and uses exception handling for errors. Its a deomonstration of the apps functionality. Lambda's are used for the removing of uneven numbers from an array and a binary search is then performed to demonstrate improved performance potential.
